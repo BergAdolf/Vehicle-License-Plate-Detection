@@ -9,4 +9,19 @@ to better perform the procedure of the license plate detection, I use QT system 
 all the processing of license plate detection.
 
 ##Qt 
-![avatar](/readmePicture/1.png)
+<br>
+
+<div align="center">
+    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/1.png" width="200px">
+</div>
+
+<br>
+<a href="https://github.com/BergAdolf">
+    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/2.png" width="50px">
+</a>
+<a href="https://github.com/BergAdolf">
+    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/3.png" width="50px">
+</a>
+<a href="https://github.com/BergAdolf">
+    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/4.png" width="50px">
+</a>
