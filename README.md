@@ -7,3 +7,6 @@ to track the vehicle. Then for the license plate image after license plate locat
 this program use end-to-end algorithm for license plate character recognition. Finally,
 to better perform the procedure of the license plate detection, I use QT system to show
 all the processing of license plate detection.
+
+##Qt 
+![avatar](/readmePicture/1.png)
