@@ -15,13 +15,21 @@ all the processing of license plate detection.
 </div>
 <br>
 
-<a href="https://github.com/BergAdolf">
-    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/2.png" width="300px">
-</a>
-                
-<a href="https://github.com/BergAdolf">
-    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/3.png" width="300px">
-</a>
-<a href="https://github.com/BergAdolf">
-    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/4.png" width="400px">
-</a>
+<br>
+<div align="center">
+    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/2.png" width="600px">
+</div>
+<br>
+
+
+<br>
+<div align="center">
+    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/3.png" width="600px">
+</div>
+<br>
+
+<br>
+<div align="center">
+    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/4.png" width="600px">
+</div>
+<br>
