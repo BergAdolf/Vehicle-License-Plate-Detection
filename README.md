@@ -8,18 +8,20 @@ this program use end-to-end algorithm for license plate character recognition. F
 to better perform the procedure of the license plate detection, I use QT system to show
 all the processing of license plate detection.
 
-## Qt 
+## Qt application 
 <br>
 <div align="center">
-    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/1.png" width="200px">
+    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/1.png" width="600px">
 </div>
 <br>
+
 <a href="https://github.com/BergAdolf">
-    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/2.png" width="50px">
+    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/2.png" width="300px">
+</a>
+                
+<a href="https://github.com/BergAdolf">
+    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/3.png" width="300px">
 </a>
 <a href="https://github.com/BergAdolf">
-    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/3.png" width="50px">
-</a>
-<a href="https://github.com/BergAdolf">
-    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/4.png" width="50px">
+    <img src="https://github.com/BergAdolf/Vehicle-License-Plate-Detection/blob/master/readmePicture/4.png" width="400px">
 </a>
